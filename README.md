@@ -1,3 +1,4 @@
+![NYC Skyline](New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2.jpg)
 # 🗽 NYC Airbnb Market Analytics: A Geospatial & Pricing Study
 
 ### 📋 Project Overview
@@ -21,3 +22,19 @@ This project is a high-level Exploratory Data Analysis (EDA) investigating the 2
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 * **Tool:** Jupyter Notebook
+
+---
+
+### 🚀 How to Run this Project
+1. **Clone the repository:** `git clone https://github.com/kashif323/NYC-Airbnb-Data-Analysis.git`
+2. **Install dependencies:** `pip install pandas numpy matplotlib seaborn`
+3. **Launch the analysis:** Open `AirBnb .ipynb` in Jupyter Notebook or VS Code to see the step-by-step cleaning and visualization process.
+
+### 🔮 Future Improvements
+* **Sentiment Analysis:** Extracting common themes from the `name` column to see how listing descriptions affect price.
+* **Interactive Dashboard:** Converting these static Seaborn plots into an interactive **Tableau** or **Power BI** dashboard.
+
+---
+### 👋 Let's Connect!
+* **LinkedIn:** [Mohammad Kashif Umar](https://linkedin.com/in/mohammad-kashif-umar)
+* **Portfolio:** [Check out my other projects](https://github.com/kashif323)
